@@ -1,0 +1,28 @@
+{
+    "常用推荐": {
+        "icon": "linecons-star"
+    },
+    "搜索引擎": {
+        "icon": "linecons-search"
+    },
+    "影音图书": {
+        "icon": "linecons-videocam",
+        "item": {
+            "影视门户": "",
+            "品质音乐": "",
+            "摄影捕光": "",
+            "博览群书": ""
+        }
+    },
+    "应用软件": {
+        "icon": "linecons-desktop",
+        "item": {
+            "发现产品": "",
+            "应用商城": "",
+            "网上购物": ""
+        }
+    },
+    "关注博客": {
+        "icon": "linecons-note"
+    }
+}
