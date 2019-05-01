@@ -173,25 +173,25 @@
         "哔哩哔哩": {
             "url": "https://www.bilibili.com/",
             "name": "哔哩哔哩",
-            "disc": "年轻人潮流文化娱乐社区",
+            "disc": "国内知名视频弹幕网站",
             "img": "bilibili.webp"
         },
         "爱奇艺": {
             "url": "https://www.iqiyi.com/",
             "name": "爱奇艺",
-            "disc": "悦享品质",
+            "disc": "全球领先的在线视频网站",
             "img": "aiqiyi.webp"
         },
         "优酷": {
             "url": "https://www.youku.com/",
             "name": "优酷",
-            "disc": "这世界很酷",
+            "disc": "中国最大的视频门户网站",
             "img": "youku.webp"
         },
         "腾讯视频": {
             "url": "https://v.qq.com/",
             "name": "腾讯视频",
-            "disc": "不负好时光",
+            "disc": "腾讯旗下的视频播放产品",
             "img": "tengxun_shipin.webp"
         },
         "智慧树": {
@@ -223,8 +223,56 @@
         "网易云音乐": {
             "url": "https://music.163.com/",
             "name": "网易云音乐",
-            "disc": "遇见好听音乐更加简单",
+            "disc": "网易旗下的高品质音乐平台",
             "img": "wymusic.webp"
+        },
+        "QQ音乐": {
+            "url": "https://y.qq.com/",
+            "name": "QQ音乐",
+            "disc": "腾讯旗下的一款免费音乐服务器",
+            "img": "qqmusic.webp"
+        },
+        "酷狗音乐": {
+            "url": "http://www.kugou.com/",
+            "name": "酷狗音乐",
+            "disc": "中国使用人数较多的音乐播放器之一",
+            "img": "kugou.webp"
+        },
+        "虾米音乐": {
+            "url": "https://www.xiami.com/",
+            "name": "虾米音乐",
+            "disc": "阿里音乐旗下品牌, 提供高品质音乐MP3的个性化推荐、发布、P2P下载服务",
+            "img": "xiami.webp"
+        },
+        "酷我音乐": {
+            "url": "http://www.kuwo.cn/",
+            "name": "酷我音乐",
+            "disc": "无损音乐正版在线试听网站",
+            "img": "kuwo.webp"
+        },
+        "荔枝FM": {
+            "url": "https://www.lizhi.fm/",
+            "name": "荔枝FM",
+            "disc": "一款因为热爱而生的音乐产品",
+            "img": "lizifm.webp"
+        },
+        "蜻蜓FM": {
+            "url": "https://www.qingting.fm/",
+            "name": "蜻蜓FM",
+            "disc": "国内首家FM网络音频电台应用",
+            "img": "qingting.webp"
+        },
+        "喜马拉雅": {
+            "url": "https://www.ximalaya.com/",
+            "name": "喜马拉雅",
+            "disc": "国内音频分享平台, 随时随地, 听我想听, 说我想说",
+            "img": "ximalaya.webp"
+        },
+        "豆瓣FM": {
+            "url": "https://douban.fm/",
+            "name": "豆瓣FM",
+            "disc": "豆瓣开发的个性化的音乐收听工具",
+            "img": "doubanfm.webp"
         }
     },
     "发现产品": {
@@ -340,41 +388,71 @@
         }
     },
     "网上购物": {
-        "Google Play": {
-            "url": "https://play.google.com/store/apps",
-            "name": "Google Play",
-            "disc": "Google 应用市场",
-            "img": "googleplay.webp"
+        "京东": {
+            "url": "https://www.jd.com",
+            "name": "京东",
+            "disc": "专业的综合网上购物商城",
+            "img": "jingdong.webp"
         },
-        "Microsoft Store": {
-            "url": "https://www.microsoft.com/en-us/store/apps/windows",
-            "name": "Microsoft Store",
-            "disc": "微软 UWP 应用商城",
-            "img": "microsoft.webp"
+        "天猫": {
+            "url": "https://www.tmall.com/",
+            "name": "天猫",
+            "disc": "理想生活上天猫",
+            "img": "tmall.webp"
         },
-        "fnd": {
-            "url": "https://fnd.io/#/cn/search?mediaType=all&term=",
-            "name": "fnd",
-            "disc": "iOS/macOS 应用搜索",
-            "img": "fnd.webp"
+        "淘宝": {
+            "url": "https://www.taobao.com/",
+            "name": "淘宝",
+            "disc": "淘！我喜欢",
+            "img": "taobao.webp"
         },
-        "Firefox Add-ons": {
-            "url": "https://addons.mozilla.org",
-            "name": "Firefox Add-ons",
-            "disc": "Firefox 附加组件",
-            "img": "firefox.webp"
+        "亚马逊": {
+            "url": "https://www.amazon.cn/",
+            "name": "亚马逊",
+            "disc": "要网购, 就来Z.cn！",
+            "img": "amazon.webp"
         },
-        "Chrome Web Store": {
-            "url": "https://chrome.google.com/webstore/category/extensions",
-            "name": "Chrome Web Store",
-            "disc": "Chrome 网上应用商店",
-            "img": "chrome.webp"
+        "苏宁易购": {
+            "url": "https://www.suning.com/",
+            "name": "苏宁易购",
+            "disc": "送货更准时, 价格更超值, 上新货更快",
+            "img": "suning.webp"
         },
-        "AlternativeTo": {
-            "url": "https://alternativeto.net/",
-            "name": "AlternativeTo",
-            "disc": "软件替代方案搜索",
-            "img": "alternativeto.webp"
+        "国美": {
+            "url": "https://www.gome.com.cn/",
+            "name": "国美",
+            "disc": "正品低价、品质保障、快速送达、安心服务！",
+            "img": "guomei.webp"
+        },
+        "聚划算": {
+            "url": "https://ju.taobao.com/",
+            "name": "聚划算",
+            "disc": "5亿品质用户精明之选",
+            "img": "juhuasuan.webp"
+        },
+        "爱淘宝": {
+            "url": "https://ai.taobao.com/",
+            "name": "爱淘宝",
+            "disc": "淘宝网购分享平台",
+            "img": "aitaobao.webp"
+        },
+        "唯品会": {
+            "url": "https://www.vip.com/",
+            "name": "唯品会",
+            "disc": "品牌特卖、确保正品、确保低价、货到付款",
+            "img": "weipinhui.webp"
+        },
+        "网易考拉": {
+            "url": "https://www.kaola.com/",
+            "name": "网易考拉",
+            "disc": "我的美好世界",
+            "img": "wykaola.webp"
+        },
+        "网易严选": {
+            "url": "http://you.163.com/",
+            "name": "网易严选",
+            "disc": "以严谨的态度, 为中国消费者甄选天下优品",
+            "img": "wyyanxuan.webp"
         }
     },
     "关注博客":{
