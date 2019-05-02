@@ -106,7 +106,7 @@ feeterFile = open('feeter.html','r', encoding='utf-8')
 #
 indexFile = open('../index.html','w', encoding='utf-8')
 indexFile.write(iheader)
-aboutFile = open('../pages/about.html','w', encoding='utf-8')
+aboutFile = open('../about.html','w', encoding='utf-8')
 aboutFile.write(aheader)
 
 
