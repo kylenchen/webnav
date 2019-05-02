@@ -66,13 +66,13 @@
         <script>
         $(function() {
             $(window).scroll(function() {
-                if ($(window).scrollTop() > 1000)
+                if ($(window).scrollTop() > 100)
                     $('div.go-alltop').show();
                 else
                     $('div.go-alltop').hide();
             });
             $('div.go-alltop').click(function() {
-                $('html, body').animate({scrollTop: 0}, 1000);
+                $('html, body').animate({scrollTop: 0}, 500);
             });
         });
         </script>
