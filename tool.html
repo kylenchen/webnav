@@ -4646,6 +4646,13 @@
 
         </div>
     </div>
+
+    <!-- 返回顶部 -->
+    <div class="go-alltop">
+           <div class="arrow"></div>
+           <div class="stick"></div>
+    </div>
+
     <!-- 锚点平滑移动 -->
     <script type="text/javascript">
     // $(document).ready(function() {
@@ -4691,6 +4698,23 @@
 
     gtag('config', 'UA-111463289-1');
     </script>
+
+    <!-- 返回顶部 -->
+    <script>
+    $(function() {
+        $(window).scroll(function() {
+            if ($(window).scrollTop() > 1000)
+                $('div.go-alltop').show();
+            else
+                $('div.go-alltop').hide();
+        });
+        $('div.go-alltop').click(function() {
+            $('html, body').animate({scrollTop: 0}, 1000);
+        });
+    });
+    </script>
+    <!-- end 返回顶部 -->
+
     <!-- Bottom Scripts -->
     <script src="./assets/js/bootstrap.min.js"></script>
     <script src="./assets/js/TweenMax.min.js"></script>
