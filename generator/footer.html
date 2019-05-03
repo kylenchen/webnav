@@ -78,6 +78,21 @@
         </script>
         <!-- end 返回顶部 -->
 
+        <!-- 导航选中高亮 -->
+        <script>
+        var urlstr = location.href;
+        var urlstatus=false;
+        $(".dropdown-nav a").each(function () {
+        if ((urlstr + '/').indexOf($(this).attr('rel')) > -1&&$(this).attr('rel')!='') {
+            $(this).addClass('cur'); urlstatus = true;
+        } else {
+            $(this).removeClass('cur');
+        }
+        });
+         if (!urlstatus) {$(".dropdown-nav a").eq(0).addClass('cur'); }
+        </script>
+        <!-- end 导航选中高亮 -->
+
         <!-- Bottom Scripts -->
         <script src="./assets/js/bootstrap.min.js"></script>
         <script src="./assets/js/TweenMax.min.js"></script>

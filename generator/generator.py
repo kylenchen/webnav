@@ -69,7 +69,7 @@ def genMenua(menu):
         if 'item' in menu[title]:
             line.append('\t\t\t\t\t\t<a>')
         else:
-            line.append('\t\t\t\t\t\t<a href="../index.html#' + title + '">')
+            line.append('\t\t\t\t\t\t<a href="./index.html#' + title + '">')
         line.append('\t\t\t\t\t\t\t<i class="' + menu[title]['icon'] + '"></i>')
         line.append('\t\t\t\t\t\t\t<span class="title">' + title + '</span>')
         line.append('\t\t\t\t\t\t</a>')
@@ -77,7 +77,7 @@ def genMenua(menu):
             line.append('\t\t\t\t\t\t<ul>')
             for subtitle in menu[title]['item']:
                 line.append('\t\t\t\t\t\t\t<li>')
-                line.append('\t\t\t\t\t\t\t\t<a href="../index.html#' + subtitle + '">')
+                line.append('\t\t\t\t\t\t\t\t<a href="./index.html#' + subtitle + '">')
                 line.append('\t\t\t\t\t\t\t\t\t<span class="title">' + subtitle + '</span>')
                 line.append('\t\t\t\t\t\t\t\t</a>')
                 line.append('\t\t\t\t\t\t\t</li>')
