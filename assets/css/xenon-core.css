@@ -9070,6 +9070,12 @@ p.overflowKeyword{
     margin-left:5px;
 }
 
+@media screen and (max-width:767px) {
+  p.overflowKeyword{
+    display: none
+  }
+}
+
 ul.dropdown-nav{
   margin-top: 29px
 }
