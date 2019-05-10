@@ -19,11 +19,17 @@
             "disc": "看看世界上的新鲜事",
             "img": "twitter.webp"
         },
-        "淘宝": {
-            "url": "https://taobao.com/",
-            "name": "淘宝",
-            "disc": "中国最大的网络零售平台",
-            "img": "taobao.webp"
+        "Facebook": {
+            "url": "https://www.facebook.com/",
+            "name": "Facebook",
+            "disc": "社交网络服务网站",
+            "img": "facebook.webp"
+        },
+        "新浪微博": {
+            "url": "https://weibo.com/",
+            "name": "新浪微博",
+            "disc": "随时随地发现新鲜事",
+            "img": "weibo.webp"
         },
         "豆瓣":{
             "url":"https://movie.douban.com/",
@@ -43,9 +49,9 @@
             "disc": "重新认识出版业",
             "img": "medium.webp"
         },
-        "百度云": {
+        "百度网盘": {
             "url": "https://pan.baidu.com/",
-            "name": "百度云",
+            "name": "百度网盘",
             "disc": "百度旗下网盘服务",
             "img": "baiducloud.webp"
         },
@@ -78,12 +84,6 @@
             "name": "七牛云",
             "disc": "国内领先的公有云服务商",
             "img": "qiniu.webp"
-        },
-        "学术搜索": {
-            "url": "http://scholar.chongbuluo.com/",
-            "name": "学术搜索",
-            "disc": "站在巨人的肩膀上",
-            "img": "chong.webp"
         },
         "快搜": {
             "url": "http://search.chongbuluo.com/",
