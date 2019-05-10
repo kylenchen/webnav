@@ -61,12 +61,6 @@
             "disc": "类MATLAB的在线IDE",
             "img": "octave.webp"
         },
-        "thepriatebay": {
-            "url": "https://thepiratebay.cr/",
-            "name": "The Pirate Bay",
-            "disc": "全球最大的BT种子服务器",
-            "img": "pirate.webp"
-        },
         "代下啦": {
             "url": "https://www.daixiala.com/",
             "name": "代下啦",
@@ -292,7 +286,7 @@
             "img": "cpanet.webp"
         }
       },
-      "博览群书": {
+      "书籍预览": {
           "PDF之家": {
               "url": "http://www.pdfzj.cn/",
               "name": "PDF之家",
@@ -443,7 +437,7 @@
             "img": "jijian.webp"
         }
     },
-    "站长工具": {
+    "文件转换": {
         "Convertio": {
             "url": "https://convertio.co/zh/",
             "name": "Convertio",
@@ -463,6 +457,38 @@
             "img": "aconvert.webp"
         }
       },
+      "磁力搜索": {
+          "磁力猫": {
+              "url": "https://www.cilimao.xyz/",
+              "name": "磁力猫",
+              "disc": "懂你的磁力搜索引擎",
+              "img": "cilimao.webp"
+          },
+          "thepriatebay": {
+              "url": "https://thepiratebay.cr/",
+              "name": "The Pirate Bay",
+              "disc": "全球最大的BT种子服务器",
+              "img": "pirate.webp"
+          },
+          "idope": {
+              "url": "https://idope.se/",
+              "name": "idope",
+              "disc": "the torrent search engine that doesn't track you",
+              "img": "idope.webp"
+          },
+          "蜘蛛搜索": {
+              "url": "http://www.zhizhuci.com/",
+              "name": "蜘蛛搜索",
+              "disc": "磁力链接搜索引擎",
+              "img": "zhizhuci.webp"
+          },
+          "zooqle": {
+              "url": "https://zooqle.com/",
+              "name": "zooqle",
+              "disc": "Verified torrents",
+              "img": "zooqle.webp"
+          }
+        },
     "网上购物": {
         "京东": {
             "url": "https://www.jd.com",
