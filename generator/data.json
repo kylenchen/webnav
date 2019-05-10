@@ -3,15 +3,14 @@
         "wikipedia": {
             "url": "https://www.wikipedia.org/",
             "name": "Wikipedia",
-            "disc": "全球最大的在线百科",
             "kw": "wk",
+            "disc": "全球最大的在线百科",
             "img": "wikipedia.webp"
         },
         "github": {
             "url": "https://www.github.com/",
             "name": "Github",
-            "kw": "gh",
-            "disc": "全球最大的同性交友社区",
+            "disc": "全球最大的面向开源及私有软件项目的托管平台",
             "img": "github.webp"
         },
         "Twitter": {
@@ -23,21 +22,18 @@
         "淘宝": {
             "url": "https://taobao.com/",
             "name": "淘宝",
-            "kw": "tb",
             "disc": "中国最大的网络零售平台",
             "img": "taobao.webp"
         },
         "豆瓣":{
             "url":"https://movie.douban.com/",
             "name":"豆瓣电影",
-            "kw": "db",
             "disc": "国内最有影响力的电影社区",
             "img": "douban.webp"
         },
         "知乎":{
             "url":"https://www.zhihu.com/explore",
             "name":"知乎",
-            "kw": "db",
             "disc": "国内最受欢迎的知识性问答社区",
             "img": "zhihu.webp"
         },
@@ -106,7 +102,6 @@
         "google": {
             "url": "https://www.google.com/",
             "name": "Google",
-            "kw": "gg",
             "disc": "全球最大的搜索引擎",
             "img": "google.webp"
         },
@@ -119,21 +114,18 @@
         "百度": {
             "url": "https://www.baidu.com/",
             "name": "百度",
-            "kw": "bd",
             "disc": "全球最大的中文搜索引擎",
             "img": "baidu.webp"
         },
         "搜狗": {
             "url": "https://www.sogou.com/",
             "name": "搜狗",
-            "kw": "sg",
             "disc": "支持微信和知乎等搜索",
             "img": "sogou.webp"
         },
         "duckduckgo": {
             "url": "https://www.DuckDuckGo.com",
             "name": "DuckDuckGo",
-            "kw": "ddg",
             "disc": "隐私且简洁的搜索引擎",
             "img": "duck.webp"
         },
@@ -152,7 +144,6 @@
         "wolframalpha": {
             "url": "https://www.wolframalpha.com/",
             "name": "WolframAlpha",
-            "kw": "wa",
             "disc": "知识搜索引擎",
             "img": "wolfram.webp"
         },
@@ -275,7 +266,41 @@
             "img": "doubanfm.webp"
         }
     },
-    "发现产品": {
+    "摄影捕光": {
+        "蜂鸟网": {
+            "url": "http://www.fengniao.com/",
+            "name": "蜂鸟网",
+            "disc": "专业影像门户, 摄影爱好者分享摄影技巧和作品的网站",
+            "img": "fengniao.webp"
+        },
+        "色影无忌": {
+            "url": "http://ww.xitek.com/",
+            "name": "色影无忌",
+            "disc": "玩摄影的都在这里",
+            "img": "xitek.webp"
+        },
+        "POPC摄影网": {
+            "url": "http://www.poco.cn/",
+            "name": "POPC摄影网",
+            "disc": "领先的时尚摄影平台",
+            "img": "poco.webp"
+        },
+        "影像中国": {
+            "url": "http://www.cpanet.cn/",
+            "name": "影像中国",
+            "disc": "中国摄影家协会主办",
+            "img": "cpanet.webp"
+        }
+      },
+      "博览群书": {
+          "PDF之家": {
+              "url": "http://www.pdfzj.cn/",
+              "name": "PDF之家",
+              "disc": "免费高清PDF电子书下载",
+              "img": "pdfzj.webp"
+          }
+     },
+     "发现产品": {
         "小众软件": {
             "url": "https://www.appinn.com/",
             "name": "小众软件",
@@ -362,6 +387,25 @@
             "disc": "微软 UWP 应用商城",
             "img": "microsoft.webp"
         },
+        "豌豆荚": {
+            "url": "https://www.wandoujia.com/",
+            "name": "豌豆荚",
+            "disc": "海量安卓APP应用与游戏免费下载",
+            "img": "wandoujia.webp"
+        },
+        "OurPlay": {
+            "url": "https://www.ourplay.net/",
+            "name": "OurPlay",
+            "disc": "原google空间 - 玩转全球合规好游戏及好应用",
+            "img": "ourplay.webp"
+        },
+        "APKPure": {
+            "url": "https://apkpure.com/",
+            "name": "APKPure",
+            "kw": "ap",
+            "disc": "APK下载器在线下载原版应用",
+            "img": "apkpure.webp"
+        },
         "fnd": {
             "url": "https://fnd.io/#/cn/search?mediaType=all&term=",
             "name": "fnd",
@@ -385,8 +429,40 @@
             "name": "AlternativeTo",
             "disc": "软件替代方案搜索",
             "img": "alternativeto.webp"
+        },
+        "扩展迷": {
+            "url": "https://extfans.com/",
+            "name": "扩展迷",
+            "disc": "Chrome 扩展与插件离线安装包网上应用商店",
+            "img": "extfans.webp"
+        },
+        "极简插件": {
+            "url": "https://chrome.zzzmh.cn/",
+            "name": "极简插件",
+            "disc": "优质Chrome浏览器crx扩展插件",
+            "img": "jijian.webp"
         }
     },
+    "站长工具": {
+        "Convertio": {
+            "url": "https://convertio.co/zh/",
+            "name": "Convertio",
+            "disc": "Convertio - 在线转换文件的简单工具",
+            "img": "convertio.webp"
+        },
+        "Office-Converter": {
+            "url": "https://cn.office-converter.com/",
+            "name": "Office-Converter",
+            "disc": "免费在线文件转换器",
+            "img": "officeconverter.webp"
+        },
+        "Aconvert": {
+            "url": "https://www.aconvert.com/cn/",
+            "name": "Aconvert",
+            "disc": "在线转化文档、图像、视频、音频文件",
+            "img": "aconvert.webp"
+        }
+      },
     "网上购物": {
         "京东": {
             "url": "https://www.jd.com",

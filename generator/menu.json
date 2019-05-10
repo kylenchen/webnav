@@ -21,6 +21,9 @@
             "应用商城": ""
         }
     },
+    "站长工具":{
+        "icon": "linecons-cog"
+    },
     "网上购物":{
         "icon": "linecons-t-shirt"
     },
