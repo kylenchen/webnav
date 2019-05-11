@@ -5,6 +5,16 @@
     "搜索引擎": {
         "icon": "linecons-search"
     },
+    "极客程序": {
+        "icon": "linecons-database",
+        "item": {
+            "代码如诗": "",
+            "开发工具": "",
+            "技术教程": "",
+            "图书清单": ""
+        }
+
+    },
     "影音图书": {
         "icon": "linecons-videocam",
         "item": {

@@ -154,6 +154,104 @@
             "img": "qwant.webp"
         }
     },
+    "代码如诗": {
+        "Stack Overflow": {
+            "url": "https://stackoverflow.com/",
+            "name": "Stack Overflow",
+            "disc": "Where Develiper Learn, Share, & Build Careers",
+            "img": "stackoverflow.webp"
+        },
+        "开源中国": {
+            "url": "https://www.oschina.net/",
+            "name": "开源中国",
+            "disc": "中文开源技术交流社区",
+            "img": "oschina.webp"
+        },
+        "CSDN": {
+            "url": "https://www.csdn.net/",
+            "name": "CSDN",
+            "disc": "专业IT技术社区",
+            "img": "csdn.webp"
+        },
+        "思否": {
+            "url": "https://segmentfault.com/",
+            "name": "思否",
+            "disc": "为开发者提供问答、学习与交流编程知识的平台",
+            "img": "segmentfault.webp"
+        },
+        "reddit": {
+            "url": "https://www.reddit.com/",
+            "name": "reddit",
+            "disc": "the front page of the internet",
+            "img": "reddit.webp"
+        },
+        "Quora": {
+            "url": "https://www.quora.com/",
+            "name": "Quora",
+            "disc": "Quora is a place to gain and share knowledge",
+            "img": "quora.webp"
+        },
+        "掘金": {
+            "url": "https://juejin.im/",
+            "name": "掘金",
+            "disc": "一个帮助开发者成长的社区",
+            "img": "juejin.webp"
+        },
+        "V2EX": {
+            "url": "https://www.v2ex.com/",
+            "name": "V2EX",
+            "disc": "各类奇妙好玩的话题和流行动向",
+            "img": "v2ex.webp"
+        }
+    },
+    "开发工具": {
+        "工具箱": {
+            "url": "https://tool.lu/",
+            "name": "工具箱",
+            "disc": "程序员的工具箱",
+            "img": "toollu.webp"
+        },
+        "JB51工具": {
+            "url": "http://tools.jb51.net/",
+            "name": "JB51工具",
+            "disc": "脚本之家在线工具",
+            "img": "jb51.webp"
+        }
+    },
+    "技术教程": {
+        "慕课网": {
+            "url": "https://www.imooc.com/",
+            "name": "工具箱",
+            "disc": "程序员的梦工厂",
+            "img": "imooc.webp"
+        },
+        "极客时间": {
+            "url": "https://time.geekbang.org/",
+            "name": "极客时间",
+            "disc": "提升知识认知",
+            "img": "jktime.webp"
+        }
+    },
+    "图书清单": {
+        "图灵社区": {
+            "url": "http://www.ituring.com.cn/",
+            "name": "图灵社区",
+            "disc": "高质量的科技书籍",
+            "img": "ituring.webp"
+        },
+        "异步社区": {
+            "url": "https://www.epubit.com/",
+            "name": "异步社区",
+            "disc": "领先的IT专业图书社区",
+            "img": "epubit.webp"
+        },
+        "计算机书籍控": {
+            "url": "http://bestcbooks.com/",
+            "name": "计算机书籍控",
+            "disc": "整理最全最经典的计算机书籍",
+            "img": "bestcbooks.webp"
+        }
+    },
     "影视门户": {
         "哔哩哔哩": {
             "url": "https://www.bilibili.com/",
