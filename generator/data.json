@@ -230,6 +230,24 @@
             "name": "极客时间",
             "disc": "提升知识认知",
             "img": "jktime.webp"
+        },
+        "智慧树": {
+            "url": "https://www.zhihuishu.com/",
+            "name": "智慧树",
+            "disc": "大型学分课程运营服务平台",
+            "img": "zhs.webp"
+        },
+        "好大学在线": {
+            "url": "https://www.cnmooc.org/",
+            "name": "好大学在线",
+            "disc": "中国顶尖的慕课平台",
+            "img": "hdx.webp"
+        },
+        "中国大学Mooc": {
+            "url": "https://www.icourse163.org/",
+            "name": "中国大学Mooc",
+            "disc": "国家精品课程在线学习平台官网",
+            "img": "icourse.webp"
         }
     },
     "图书资源": {
@@ -253,6 +271,12 @@
         }
     },
     "影视门户": {
+        "YouTube": {
+          "url": "https://www.youtube.com/",
+          "name": "YouTube",
+          "disc": "全球最大的视频分享平台",
+          "img": "youtube.webp"
+      },
         "哔哩哔哩": {
             "url": "https://www.bilibili.com/",
             "name": "哔哩哔哩",
@@ -277,29 +301,35 @@
             "disc": "腾讯旗下的视频播放产品",
             "img": "tengxun_shipin.webp"
         },
-        "智慧树": {
-            "url": "https://www.zhihuishu.com/",
-            "name": "智慧树",
-            "disc": "在线慕课平台",
-            "img": "zhs.webp"
+        "土豆": {
+            "url": "https://www.tudou.com/",
+            "name": "土豆",
+            "disc": "全球领先短视频平台",
+            "img": "tudou.webp"
         },
-        "好大学在线": {
-            "url": "https://www.cnmooc.org/",
-            "name": "好大学在线",
-            "disc": "在线慕课平台",
-            "img": "hdx.webp"
+        "搜狐视频": {
+            "url": "https://tv.sohu.com/",
+            "name": "搜狐视频",
+            "disc": "综合视频网站",
+            "img": "sohu.webp"
         },
-        "中国大学Mooc": {
-            "url": "https://www.webpurse163.org/",
-            "name": "中国大学Mooc",
-            "disc": "在线慕课平台",
-            "img": "icourse.webp"
+        "乐视": {
+            "url": "http://www.le.com/",
+            "name": "乐视",
+            "disc": "影视剧视频网站",
+            "img": "leshi.webp"
         },
-        "HTerHub": {
-            "url": "http://hitctf.tk/",
-            "name": "H1TerHub",
-            "disc": "网络安全社团CTF靶场",
-            "img": "hitctf.webp"
+        "央视网": {
+            "url": "http://www.cctv.com/",
+            "name": "央视网",
+            "disc": "世界就在眼前",
+            "img": "cctv.webp"
+        },
+        "凤凰视频": {
+            "url": "http://v.ifeng.com/",
+            "name": "凤凰视频",
+            "disc": "最具媒体价值的视频门户",
+            "img": "ifeng.webp"
         }
     },
     "品质音乐": {
