@@ -464,6 +464,18 @@
             "name": "最美应用",
             "disc": "发现好用好看好玩的应用",
             "img": "zuimei.webp"
+        },
+        "远景": {
+            "url": "http://www.pcbeta.com/",
+            "name": "远景",
+            "disc": "微软极客社区",
+            "img": "pcbeta.webp"
+        },
+        "MSDN": {
+            "url": "https://msdn.itellyou.cn/",
+            "name": "MSDN",
+            "disc": "MSDN, 我告诉你, 微软产品下载中心",
+            "img": "msdn.webp"
         }
     },
     "应用商城": {
