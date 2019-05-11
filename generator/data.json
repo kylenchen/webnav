@@ -232,7 +232,7 @@
             "img": "jktime.webp"
         }
     },
-    "图书清单": {
+    "图书资源": {
         "图灵社区": {
             "url": "http://www.ituring.com.cn/",
             "name": "图灵社区",
@@ -382,8 +382,64 @@
             "name": "影像中国",
             "disc": "中国摄影家协会主办",
             "img": "cpanet.webp"
+        },
+        "灵感中国": {
+            "url": "http://www.lingganchina.com",
+            "name": "灵感中国",
+            "disc": "专业的资源分享平台",
+            "img": "lingganchina.webp"
+        },
+        "AE素材社区": {
+            "url": "http://www.aeziyuan.com",
+            "name": "AE素材社区",
+            "disc": "专业的素材分享平台",
+            "img": "aeziyuan.webp"
+        },
+        "摄影巴士": {
+            "url": "http://www.fsbus.com/",
+            "name": "摄影巴士",
+            "disc": "实用的摄影技巧及教程",
+            "img": "fsbus.webp"
         }
       },
+      "图库站点": {
+          "Instagram": {
+              "url": "https://www.instagram.com/",
+              "name": "Instagram",
+              "disc": "Facebook旗下免费提供在线图片及视频分享的社交平台",
+              "img": "instagram.webp"
+          },
+          "图虫": {
+              "url": "https://tuchong.com/",
+              "name": "图虫",
+              "disc": "优质摄影师交流社区",
+              "img": "tuchong.webp"
+          },
+          "花瓣": {
+              "url": "https://huaban.com/",
+              "name": "花瓣",
+              "disc": "收集灵感,保存有用的素材",
+              "img": "huaban.webp"
+          },
+          "站酷": {
+              "url": "https://www.zcool.com.cn/",
+              "name": "站酷",
+              "disc": "中国人气设计师互动平台",
+              "img": "zcool.webp"
+          },
+          "美客": {
+              "url": "http://www.meke.cn/",
+              "name": "美客",
+              "disc": "精彩就在美时美客",
+              "img": "meke.webp"
+          },
+          "CNU": {
+              "url": "http://www.cnu.cc/",
+              "name": "CNU",
+              "disc": "CNU视觉联盟",
+              "img": "cnu.webp"
+          }
+     },
       "书籍预览": {
           "PDF之家": {
               "url": "http://www.pdfzj.cn/",
