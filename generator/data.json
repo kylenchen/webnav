@@ -147,6 +147,12 @@
             "disc": "德国匿名搜索引擎",
             "img": "fireball.svg"
         },
+        "秘迹搜索": {
+            "url": "https://mijisou.com/",
+            "name": "秘迹搜索",
+            "disc": "这是一个不追踪你的搜索引擎",
+            "img": "mijisou.webp"
+        },
         "qwant": {
             "url": "https://www.qwant.com/",
             "name": "Qwant",
@@ -503,6 +509,12 @@
           }
      },
      "发现产品": {
+       "IT之家": {
+           "url": "https://www.ithome.com/",
+           "name": "IT之家",
+           "disc": "数码，科技，生活",
+           "img": "ithome.webp"
+       },
         "小众软件": {
             "url": "https://www.appinn.com/",
             "name": "小众软件",
@@ -757,7 +769,21 @@
               "disc": "Verified torrents",
               "img": "zooqle.webp"
           }
+    },
+    "网盘搜索": {
+        "云盘精灵": {
+            "url": "https://www.yunpanjingling.com/",
+            "name": "云盘精灵",
+            "disc": "云盘万能钥匙 - 网盘资源搜索",
+            "img": "yunpanjingling.webp"
         },
+        "小可搜搜": {
+            "url": "https://www.xiaokesoso.com/",
+            "name": "小可搜搜",
+            "disc": "资源搜索，有你更方便",
+            "img": "xiaokesoso.webp"
+        }
+    },
     "网上购物": {
         "京东": {
             "url": "https://www.jd.com",
