@@ -80,7 +80,7 @@
             "img": "aliyun.webp"
         },
         "七牛云": {
-            "url": "https://portal.qiniu.com/",
+            "url": "https://www.qiniu.com/",
             "name": "七牛云",
             "disc": "国内领先的公有云服务商",
             "img": "qiniu.webp"
@@ -330,6 +330,12 @@
             "name": "凤凰视频",
             "disc": "最具媒体价值的视频门户",
             "img": "ifeng.webp"
+        },
+        "CMM": {
+            "url": "https://www.cmm.wiki/",
+            "name": "CMM",
+            "disc": "Best Video of the Week",
+            "img": "cmm.webp"
         }
     },
     "品质音乐": {
@@ -601,6 +607,12 @@
             "disc": "海量安卓APP应用与游戏免费下载",
             "img": "wandoujia.webp"
         },
+        "酷安": {
+            "url": "https://www.coolapk.com/",
+            "name": "酷安",
+            "disc": "发现科技新生活",
+            "img": "coolapk.webp"
+        },
         "OurPlay": {
             "url": "https://www.ourplay.net/",
             "name": "OurPlay",
@@ -613,6 +625,31 @@
             "kw": "ap",
             "disc": "APK下载器在线下载原版应用",
             "img": "apkpure.webp"
+        },
+        "Uptodown": {
+            "url": "https://en.uptodown.com/",
+            "name": "Uptodown",
+            "kw": "up",
+            "disc": "适用于Android，iOS，Mac，Windows和Web的最受欢迎应用商店",
+            "img": "uptodown.webp"
+        },
+        "9apps": {
+            "url": "https://www.9apps.com/",
+            "name": "9apps",
+            "disc": "阿里旗下海外第三方安卓应用和游戏商店",
+            "img": "9apps.webp"
+        },
+        "APKMirror": {
+            "url": "https://www.apkmirror.com/",
+            "name": "APKMirror",
+            "disc": "Download Free Android APKs #APKPLZ",
+            "img": "apkmirror.webp"
+        },
+        "Aptoide": {
+            "url": "https://cn.aptoide.com/",
+            "name": "Aptoide",
+            "disc": "Discover your new Android App Store",
+            "img": "aptoide.webp"
         },
         "fnd": {
             "url": "https://fnd.io/#/cn/search?mediaType=all&term=",
@@ -669,6 +706,24 @@
             "name": "Aconvert",
             "disc": "在线转化文档、图像、视频、音频文件",
             "img": "aconvert.webp"
+        },
+        "uupoop": {
+            "url": "https://www.uupoop.com/",
+            "name": "uupoop",
+            "disc": "在线PS图片处理工具",
+            "img": "uupoop.webp"
+        },
+        "ClipConverter": {
+            "url": "https://www.clipconverter.cc/",
+            "name": "ClipConverter",
+            "disc": "YouTube to MP4 & MP3 Converter",
+            "img": "clipconverter.webp"
+        },
+        "y2mate": {
+            "url": "https://y2mate.com",
+            "name": "y2mate",
+            "disc": "Download Video and Audio from YouTube",
+            "img": "y2mate.webp"
         }
       },
       "磁力搜索": {
@@ -769,6 +824,40 @@
             "name": "网易严选",
             "disc": "以严谨的态度, 为中国消费者甄选天下优品",
             "img": "wyyanxuan.webp"
+        }
+    },
+    "软件分享": {
+        "吾爱破解": {
+            "url": "https://www.52pojie.cn/portal.php",
+            "name": "吾爱破解",
+            "disc": "软件交流天地",
+            "img": "52pojie.webp"
+        },
+        "CUIUC": {
+            "url": "https://www.cuiuc.com/",
+            "name": "CUIUC",
+            "disc": "发现好软件",
+            "img": "cuiuc.webp"
+        },
+        "胡萝卜周": {
+            "url": "http://www.carrotchou.blog",
+            "name": "胡萝卜周",
+            "disc": "软件分享领跑者",
+            "img": "carrotchou.webp"
+        },
+        "求资源": {
+            "url": "http://www.qiuziyuan.net/",
+            "name": "求资源",
+            "disc": "绿色软件分享平台",
+            "img": "qiuziyuan.webp"
+        }
+    },
+    "影视娱园": {
+        "电影天堂": {
+            "url": "https://www.dytt8.net/",
+            "name": "电影天堂",
+            "disc": "免费电影下载",
+            "img": "dytt8.webp"
         }
     },
     "关注博客":{

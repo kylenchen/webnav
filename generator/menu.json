@@ -42,6 +42,13 @@
     "网上购物":{
         "icon": "linecons-t-shirt"
     },
+    "社区论坛":{
+        "icon": "linecons-inbox",
+        "item": {
+            "软件分享": "",
+            "影视娱园": ""
+        }
+    },
     "关注博客": {
         "icon": "linecons-note"
     }
