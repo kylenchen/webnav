@@ -337,6 +337,12 @@
             "disc": "最具媒体价值的视频门户",
             "img": "ifeng.webp"
         },
+        "Netflix": {
+            "url": "https://www.netflix.com/",
+            "name": "Netflix",
+            "disc": "奈飞 - 网络视频点播的OTT服务媒体",
+            "img": "netflix.webp"
+        },
         "CMM": {
             "url": "https://www.cmm.wiki/",
             "name": "CMM",
