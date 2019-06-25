@@ -783,11 +783,23 @@
             "disc": "云盘万能钥匙 - 网盘资源搜索",
             "img": "yunpanjingling.webp"
         },
+        "爱搜资源": {
+            "url": "https://www.aisouziyuan.com/",
+            "name": "爱搜资源",
+            "disc": "爱搜资源云盘助手",
+            "img": "aisouziyuan.webp"
+        },
         "小可搜搜": {
             "url": "https://www.xiaokesoso.com/",
             "name": "小可搜搜",
             "disc": "资源搜索，有你更方便",
             "img": "xiaokesoso.webp"
+        },
+        "盘搜搜": {
+            "url": "http://www.pansoso.com/",
+            "name": "盘搜搜",
+            "disc": "百度网盘搜索",
+            "img": "pansoso.webp"
         }
     },
     "网上购物": {
