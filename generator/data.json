@@ -870,7 +870,7 @@
             "img": "wyyanxuan.webp"
         }
     },
-    "软件分享": {
+    "资源教程": {
         "吾爱破解": {
             "url": "https://www.52pojie.cn/portal.php",
             "name": "吾爱破解",
@@ -888,6 +888,18 @@
             "name": "胡萝卜周",
             "disc": "软件分享领跑者",
             "img": "carrotchou.webp"
+        },
+        "IT视频学习网": {
+            "url": "https://www.itspxx.com/",
+            "name": "IT视频学习网",
+            "disc": "免费视频教程下载",
+            "img": "itspxx.webp"
+        },
+        "IT教程吧": {
+            "url": "https://www.itjc8.com/",
+            "name": "IT教程吧",
+            "disc": "程序员的新大陆",
+            "img": "itjc8.webp"
         },
         "求资源": {
             "url": "http://www.qiuziyuan.net/",
