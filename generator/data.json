@@ -706,6 +706,32 @@
             "img": "jijian.webp"
         }
     },
+    "服务主机": {
+        "Vultr": {
+           "url": "https://www.vultr.com/",
+           "name": "Vultr",
+           "disc": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
+           "img": "vultr.webp"
+       },
+        "BandwagonHost": {
+           "url": "https://bandwagonhost.com/",
+           "name": "搬瓦工",
+           "disc": "Mass VPS hosting on Enterprise equipment",
+           "img": "bandwagonhost.webp"
+       },
+        "Virmach": {
+           "url": "https://virmach.com/",
+           "name": "Virmach",
+           "disc": "Cheap Windows VPS & Linux VPS",
+           "img": "virmach.webp"
+      },
+       "Hostwinds": {
+          "url": "https://www.hostwinds.com/",
+          "name": "Hostwinds",
+          "disc": "Customer Centric Web Hosting Solutions",
+          "img": "hostwinds.webp"
+      }
+    },
     "文件转换": {
         "Convertio": {
             "url": "https://convertio.co/zh/",
@@ -801,6 +827,32 @@
             "disc": "百度网盘搜索",
             "img": "pansoso.webp"
         }
+    },
+    "网络测试": {
+        "IPIP": {
+           "url": "https://www.ipip.net/",
+           "name": "IPIP",
+           "disc": "专业的IP地址库",
+           "img": "ipip.webp"
+       },
+        "Speedtest": {
+           "url": "https://www.speedtest.net/",
+           "name": "Speedtest",
+           "disc": "The Global Broadband Speed Test",
+           "img": "speedtest.webp"
+      },
+       "Chinaz": {
+            "url": "http://tool.chinaz.com/",
+            "name": "Chinaz",
+            "disc": "站长之家",
+            "img": "chinaz.webp"
+      },
+      "Chaipip": {
+           "url": "http://chaipip.com/ip.php",
+           "name": "Chaipip",
+           "disc": "高精度IP地址查询",
+           "img": "chaipip.webp"
+      }
     },
     "网上购物": {
         "京东": {
