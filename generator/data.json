@@ -493,11 +493,11 @@
               "disc": "Design Inspiration",
               "img": "inspiration.webp"
           },
-          "美客": {
-              "url": "http://www.meke.cn/",
-              "name": "美客",
-              "disc": "精彩就在美时美客",
-              "img": "meke.webp"
+          "Pexels": {
+              "url": "https://www.pexels.com/",
+              "name": "Pexels",
+              "disc": "免费图库相片",
+              "img": "pexels.webp"
           },
           "CNU": {
               "url": "http://www.cnu.cc/",
@@ -538,6 +538,24 @@
             "name": "少数派",
             "disc": "高效工作，品质生活",
             "img": "sspai.webp"
+        },
+        "今日热榜": {
+            "url": "https://tophub.today/",
+            "name": "今日热榜",
+            "disc": "提供各站热榜聚合",
+            "img": "tophub.webp"
+        },
+        "七麦数据": {
+            "url": "https://www.qimai.cn/",
+            "name": "七麦数据",
+            "disc": "专业移动推广数据分析平台",
+            "img": "qimai.webp"
+        },
+        "AirDroid": {
+            "url": "https://www.airdroid.com/",
+            "name": "AirDroid",
+            "disc": "无线传输文件和管理手机",
+            "img": "airdroid.webp"
         },
         "数字尾巴": {
             "url": "http://www.dgtle.com",
@@ -608,15 +626,15 @@
     },
     "应用商城": {
         "Google Play": {
-            "url": "https://play.google.com/store/apps",
+            "url": "https://play.google.com/",
             "name": "Google Play",
             "disc": "Google 应用市场",
             "img": "googleplay.webp"
         },
         "Microsoft Store": {
-            "url": "https://www.microsoft.com/en-us/store/apps/windows",
+            "url": "https://www.microsoft.com/zh-cn/store/",
             "name": "Microsoft Store",
-            "disc": "微软 UWP 应用商城",
+            "disc": "微软应用商城",
             "img": "microsoft.webp"
         },
         "豌豆荚": {
@@ -669,6 +687,12 @@
             "disc": "Discover your new Android App Store",
             "img": "aptoide.webp"
         },
+        "APKCombo": {
+            "url": "https://apkcombo.com/",
+            "name": "APKCombo",
+            "disc": "下载APK & OBB",
+            "img": "apkcombo.webp"
+        },
         "fnd": {
             "url": "https://fnd.io/#/cn/search?mediaType=all&term=",
             "name": "fnd",
@@ -707,6 +731,12 @@
         }
     },
     "服务主机": {
+        "Cloudflare": {
+           "url": "https://www.cloudflare.com/",
+           "name": "Cloudflare",
+           "disc": "Web Performance & Security",
+           "img": "cloudflare.webp"
+       },
         "Vultr": {
            "url": "https://www.vultr.com/",
            "name": "Vultr",
@@ -730,6 +760,30 @@
           "name": "Hostwinds",
           "disc": "Customer Centric Web Hosting Solutions",
           "img": "hostwinds.webp"
+      },
+       "NameSilo": {
+          "url": "https://www.namesilo.com/",
+          "name": "NameSilo",
+          "disc": "Cheapest Domain Names & Websites",
+          "img": "namesilo.webp"
+     },
+      "Freenom": {
+         "url": "https://www.freenom.com/",
+         "name": "Freenom",
+         "disc": "A Name for Everyone",
+         "img": "freenom.webp"
+     },
+      "Gandi.net": {
+         "url": "https://www.gandi.net/",
+         "name": "Gandi.net",
+         "disc": "网域名称、SSL 凭证与网站代管",
+         "img": "gandinet.webp"
+     },
+      "Cloudinary": {
+          "url": "https://cloudinary.com/",
+          "name": "Cloudinary",
+          "disc": "Image and Video Upload, Storage, Optimization and CDN",
+          "img": "cloudinary.webp"
       }
     },
     "文件转换": {
@@ -757,11 +811,29 @@
             "disc": "在线PS图片处理工具",
             "img": "uupoop.webp"
         },
+        "Removebg": {
+            "url": "https://www.remove.bg/",
+            "name": "Removebg",
+            "disc": "删除图像中的背景",
+            "img": "removebg.webp"
+        },
         "ClipConverter": {
             "url": "https://www.clipconverter.cc/",
             "name": "ClipConverter",
             "disc": "YouTube to MP4 & MP3 Converter",
             "img": "clipconverter.webp"
+        },
+        "Smallpdf": {
+            "url": "https://smallpdf.com/",
+            "name": "Smallpdf",
+            "disc": "轻松玩转PDF",
+            "img": "smallpdf.webp"
+        },
+        "Videoder": {
+            "url": "https://www.videoder.com/",
+            "name": "Videoder",
+            "disc": "免费和快速视频下载",
+            "img": "videoder.webp"
         },
         "y2mate": {
             "url": "https://y2mate.com",
@@ -847,11 +919,31 @@
             "disc": "站长之家",
             "img": "chinaz.webp"
       },
+       "Fast": {
+           "url": "http://tool.chinaz.com/",
+           "name": "Fast",
+           "disc": "Internet Speed Test",
+           "img": "fast.webp"
+      },
       "Chaipip": {
            "url": "http://chaipip.com/ip.php",
            "name": "Chaipip",
            "disc": "高精度IP地址查询",
            "img": "chaipip.webp"
+      }
+    },
+    "聚合导航": {
+        "搜图导航": {
+           "url": "https://www.91sotu.com/",
+           "name": "搜图导航",
+           "disc": "强大且智能的设计师导航",
+           "img": "91sotu.webp"
+       },
+        "addog": {
+           "url": "http://www.addog.vip/",
+           "name": "addog",
+           "disc": "广告/设计/文案/PPT模板/营销策略",
+           "img": "addog.webp"
       }
     },
     "网上购物": {
@@ -929,6 +1021,24 @@
             "disc": "软件交流天地",
             "img": "52pojie.webp"
         },
+        "KoolShare": {
+            "url": "https://koolshare.cn/",
+            "name": "KoolShare",
+            "disc": "源于玩家服务玩家",
+            "img": "koolshare.webp"
+        },
+        "恩山论坛": {
+            "url": "https://www.right.com.cn/forum/",
+            "name": "恩山论坛",
+            "disc": "无线论坛",
+            "img": "rightcom.webp"
+        },
+        "Hostloc": {
+            "url": "https://www.hostloc.com/forum.php",
+            "name": "Hostloc",
+            "disc": "全球主机交流论坛",
+            "img": "hostloc.webp"
+        },
         "CUIUC": {
             "url": "https://www.cuiuc.com/",
             "name": "CUIUC",
@@ -961,6 +1071,12 @@
         }
     },
     "影视娱园": {
+       "DyGod": {
+          "url": "https://www.dygod.net/",
+          "name": "电影天堂",
+          "disc": "高清电影下载",
+          "img": "dygod.webp"
+        },
         "电影天堂": {
             "url": "https://www.dytt8.net/",
             "name": "电影天堂",
@@ -998,6 +1114,12 @@
             "name":"苏洋博客",
             "disc":"前新浪美团阿里员工",
             "img":"soulteary.webp"
+        },
+        "蓝洛水深":{
+            "url":"https://www.ilanluo.com/",
+            "name":"蓝洛水深",
+            "disc":"分享生活点点滴滴",
+            "img":"ilanluo.webp"
         },
         "奔跑中的奶酪":{
             "url": "https://www.runningcheese.com/",
