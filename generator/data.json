@@ -784,6 +784,12 @@
           "name": "Cloudinary",
           "disc": "Image and Video Upload, Storage, Optimization and CDN",
           "img": "cloudinary.webp"
+      },
+      "GTmetrix": {
+          "url": "https://gtmetrix.com/",
+          "name": "GTmetrix",
+          "disc": "Website Speed and Performance Optimization",
+          "img": "gtmetrix.webp"
       }
     },
     "文件转换": {
