@@ -1045,6 +1045,12 @@
             "disc": "全球主机交流论坛",
             "img": "hostloc.webp"
         },
+        "ZNDS": {
+            "url": "https://www.znds.com/",
+            "name": "ZNDS",
+            "disc": "智能电视论坛",
+            "img": "zndslogo.webp"
+        },
         "CUIUC": {
             "url": "https://www.cuiuc.com/",
             "name": "CUIUC",

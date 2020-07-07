@@ -5634,7 +5634,7 @@ button.close {
 .visible-xs-block,.visible-xs-inline,.visible-xs-inline-block,.visible-sm-block,.visible-sm-inline,.visible-sm-inline-block,.visible-md-block,.visible-md-inline,.visible-md-inline-block,.visible-lg-block,.visible-lg-inline,.visible-lg-inline-block {
 	display:none!important
 }
-@media (max-width:767px) {
+@media (max-width:768px) {
 	.visible-xs {
 	display:block!important
 }
@@ -5740,7 +5740,7 @@ th.visible-lg,td.visible-lg {
 }
 }@media (min-width:768px) and (max-width:991px) {
 	.hidden-sm {
-	display:none!important
+	/* display:none!important */
 }
 }@media (min-width:992px) and (max-width:1199px) {
 	.hidden-md {
