@@ -17,7 +17,7 @@ def genItem(dict):
     line.append('\t\t<div class="xe-widget xe-conversations box2 label-info" onclick="window.open(\'' + url + '\', \'_blank\')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="' + url +'">')
     line.append('\t\t\t<div class="xe-comment-entry">')
     line.append('\t\t\t\t<a class="xe-user-img">')
-    line.append('''\t\t\t\t\t<img src="./assets/images/logos/''' + img + '''" class="img-circle" width="40">''')
+    line.append('''\t\t\t\t\t<img data-src="./assets/images/logos/''' + img + '''" class="lozad img-circle" width="40">''')
     line.append('\t\t\t\t</a>')
     line.append('\t\t\t\t<div class="xe-comment">')
     line.append('''\t\t\t\t\t<a href="#" class="xe-user-name overflowClip_1">''')
@@ -40,8 +40,8 @@ def genMenu(menu):
     for title in menu:
         line.append('\t\t\t\t\t<li>')
         if 'item' in menu[title]:
-            # line.append('\t\t\t\t\t\t<a>')
-            line.append('\t\t\t\t\t\t<a href="#' + list(menu[title]['item'])[0] + '" class="smooth">')  # 如出错换成上面的注释代码
+            line.append('\t\t\t\t\t\t<a>')
+            # line.append('\t\t\t\t\t\t<a href="#' + list(menu[title]['item'])[0] + '" class="smooth">')  # 如出错换成上面的注释代码
         else:
             line.append('\t\t\t\t\t\t<a href="#' + title + '" class="smooth">')
         line.append('\t\t\t\t\t\t\t<i class="' + menu[title]['icon'] + '"></i>')
