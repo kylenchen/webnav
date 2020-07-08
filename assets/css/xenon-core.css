@@ -9160,3 +9160,8 @@ div.go-alltop div.stick {
    background: url('../images/loading.png') no-repeat center;
    height: 40px
 }
+
+/* 去掉加載黑框 */
+img[src=""],img:not([src]){
+  opacity: 0;
+}
