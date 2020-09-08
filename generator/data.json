@@ -944,13 +944,31 @@
            "name": "搜图导航",
            "disc": "强大且智能的设计师导航",
            "img": "91sotu.webp"
-       },
+        },
         "addog": {
            "url": "http://www.addog.vip/",
            "name": "addog",
            "disc": "广告/设计/文案/PPT模板/营销策略",
            "img": "addog.webp"
-      }
+       },
+       "SBKKO导航": {
+          "url": "https://nav.sbkko.com/",
+          "name": "SBKKO导航",
+          "disc": "轻松浏览, 便捷上网",
+          "img": "sbkko.webp"
+       },
+       "MJJ导航": {
+          "url": "https://www.mjjloc.com/",
+          "name": "MJJ导航",
+          "disc": "这儿有你想要的",
+          "img": "mjjloc.webp"
+       },
+       "趣导航": {
+          "url": "https://qssily.com/",
+          "name": "趣导航",
+          "disc": "有深度的网址导航",
+          "img": "qssily.webp"
+       }
     },
     "网上购物": {
         "京东": {
@@ -1075,6 +1093,12 @@
             "disc": "程序员的新大陆",
             "img": "itjc8.webp"
         },
+        "路由器交流": {
+            "url": "https://www.acwifi.net/",
+            "name": "路由器交流",
+            "disc": "无线路由器使用分享与评测对比",
+            "img": "acwifi.webp"
+        },
         "求资源": {
             "url": "http://www.qiuziyuan.net/",
             "name": "求资源",
@@ -1094,6 +1118,30 @@
             "name": "电影天堂",
             "disc": "免费电影下载",
             "img": "dytt8.webp"
+        },
+        "BT吧": {
+            "url": "https://www.btba.com.cn/",
+            "name": "BT吧",
+            "disc": "高清电影电视剧BT下载",
+            "img": "ibtba.webp"
+        },
+        "NO视频": {
+            "url": "https://www.novipnoad.com/",
+            "name": "NO视频",
+            "disc": "不负追剧好时光",
+            "img": "novipnoad.webp"
+        },
+        "奈菲影视": {
+            "url": "https://www.nfmovies.com/",
+            "name": "奈菲影视",
+            "disc": "电影电视剧在线观看",
+            "img": "nfmovies.webp"
+        },
+        "龙腾影视": {
+            "url": "https://www.118232.com/",
+            "name": "龙腾影视",
+            "disc": "全网电影电视剧在线观看, 无广告",
+            "img": "longteng.webp"
         }
     },
     "关注博客":{
@@ -1132,6 +1180,12 @@
             "name":"蓝洛水深",
             "disc":"分享生活点点滴滴",
             "img":"ilanluo.webp"
+        },
+        "佰阅部落":{
+            "url":"https://baiyue.one/",
+            "name":"佰阅部落",
+            "disc":"让优质的web应用脱颖而出",
+            "img":"baiyue.webp"
         },
         "奔跑中的奶酪":{
             "url": "https://www.runningcheese.com/",
