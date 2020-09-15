@@ -835,6 +835,12 @@
             "disc": "轻松玩转PDF",
             "img": "smallpdf.webp"
         },
+        "LightPDF": {
+            "url": "https://lightpdf.com/",
+            "name": "LightPDF",
+            "disc": "免费在线编辑转换pdf",
+            "img": "lightpdf.webp"
+        },
         "Videoder": {
             "url": "https://www.videoder.com/",
             "name": "Videoder",
@@ -964,10 +970,10 @@
           "img": "mjjloc.webp"
        },
        "趣导航": {
-          "url": "https://qssily.com/",
+          "url": "https://ifun.cool/",
           "name": "趣导航",
           "disc": "有深度的网址导航",
-          "img": "qssily.webp"
+          "img": "ifuncool.webp"
        }
     },
     "网上购物": {
@@ -1092,6 +1098,12 @@
             "name": "IT教程吧",
             "disc": "程序员的新大陆",
             "img": "itjc8.webp"
+        },
+        "百汇IT": {
+            "url": "http://bbs.32bh.com/",
+            "name": "百汇IT",
+            "disc": "IT资源分享论坛",
+            "img": "32bhit.webp"
         },
         "路由器交流": {
             "url": "https://www.acwifi.net/",
