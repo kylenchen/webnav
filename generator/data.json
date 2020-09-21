@@ -693,6 +693,18 @@
             "disc": "下载APK & OBB",
             "img": "apkcombo.webp"
         },
+        "APKSSL": {
+            "url": "https://apkssl.com/",
+            "name": "APKSSL",
+            "disc": "Free & Safe download APK",
+            "img": "apkssl.webp"
+        },
+        "apkdl": {
+            "url": "https://apkdl.in/",
+            "name": "apkdl",
+            "disc": "download android apps and games",
+            "img": "apkdl.webp"
+        },
         "fnd": {
             "url": "https://fnd.io/#/cn/search?mediaType=all&term=",
             "name": "fnd",
