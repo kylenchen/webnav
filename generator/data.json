@@ -307,6 +307,12 @@
             "disc": "腾讯旗下的视频播放产品",
             "img": "tengxun_shipin.webp"
         },
+        "芒果TV": {
+            "url": "https://www.mgtv.com/",
+            "name": "芒果TV",
+            "disc": "天生青春",
+            "img": "mgtv.webp"
+        },
         "土豆": {
             "url": "https://www.tudou.com/",
             "name": "土豆",
@@ -343,11 +349,17 @@
             "disc": "奈飞 - 网络视频点播的OTT服务媒体",
             "img": "netflix.webp"
         },
-        "CMM": {
-            "url": "https://www.cmm.wiki/",
-            "name": "CMM",
-            "disc": "Best Video of the Week",
-            "img": "cmm.webp"
+        "Hulu": {
+            "url": "https://www.hulu.com/",
+            "name": "Hulu",
+            "disc": "Stream TV and Movies Live and Online",
+            "img": "hulu.webp"
+        },
+        "Disney+": {
+            "url": "https://www.disneyplus.com/",
+            "name": "Disney+",
+            "disc": "Stream Disney, Marvel, Pixar, Star Wars, National",
+            "img": "disneyplus.webp"
         }
     },
     "品质音乐": {
