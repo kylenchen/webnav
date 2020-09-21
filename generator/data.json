@@ -748,60 +748,66 @@
            "name": "Cloudflare",
            "disc": "Web Performance & Security",
            "img": "cloudflare.webp"
-       },
+        },
         "Vultr": {
            "url": "https://www.vultr.com/",
            "name": "Vultr",
            "disc": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
            "img": "vultr.webp"
-       },
+        },
         "BandwagonHost": {
            "url": "https://bandwagonhost.com/",
            "name": "搬瓦工",
            "disc": "Mass VPS hosting on Enterprise equipment",
            "img": "bandwagonhost.webp"
-       },
+        },
         "Virmach": {
            "url": "https://virmach.com/",
            "name": "Virmach",
            "disc": "Cheap Windows VPS & Linux VPS",
            "img": "virmach.webp"
+        },
+        "BuyVM": {
+           "url": "https://buyvm.net/",
+           "name": "BuyVM",
+           "disc": "Affordable Hosting with a touch of Insanity",
+           "img": "buyvm.webp"
+        },
+        "Hostwinds": {
+            "url": "https://www.hostwinds.com/",
+            "name": "Hostwinds",
+            "disc": "Customer Centric Web Hosting Solutions",
+            "img": "hostwinds.webp"
+        },
+        "NameSilo": {
+            "url": "https://www.namesilo.com/",
+            "name": "NameSilo",
+            "disc": "Cheapest Domain Names & Websites",
+            "img": "namesilo.webp"
+        },
+        "Freenom": {
+           "url": "https://www.freenom.com/",
+           "name": "Freenom",
+           "disc": "A Name for Everyone",
+           "img": "freenom.webp"
       },
-       "Hostwinds": {
-          "url": "https://www.hostwinds.com/",
-          "name": "Hostwinds",
-          "disc": "Customer Centric Web Hosting Solutions",
-          "img": "hostwinds.webp"
-      },
-       "NameSilo": {
-          "url": "https://www.namesilo.com/",
-          "name": "NameSilo",
-          "disc": "Cheapest Domain Names & Websites",
-          "img": "namesilo.webp"
-     },
-      "Freenom": {
-         "url": "https://www.freenom.com/",
-         "name": "Freenom",
-         "disc": "A Name for Everyone",
-         "img": "freenom.webp"
-     },
       "Gandi.net": {
-         "url": "https://www.gandi.net/",
-         "name": "Gandi.net",
-         "disc": "网域名称、SSL 凭证与网站代管",
-         "img": "gandinet.webp"
-     },
+          "url": "https://www.gandi.net/",
+          "name": "Gandi.net",
+          "disc": "网域名称、SSL 凭证与网站代管",
+          "img": "gandinet.webp"
+      },
       "Cloudinary": {
-          "url": "https://cloudinary.com/",
-          "name": "Cloudinary",
-          "disc": "Image and Video Upload, Storage, Optimization and CDN",
-          "img": "cloudinary.webp"
+           "url": "https://cloudinary.com/",
+           "name": "Cloudinary",
+           "disc": "Image and Video Upload, Storage, Optimization and CDN",
+           "img": "cloudinary.webp"
       },
       "GTmetrix": {
-          "url": "https://gtmetrix.com/",
-          "name": "GTmetrix",
-          "disc": "Website Speed and Performance Optimization",
-          "img": "gtmetrix.webp"
+           "url": "https://gtmetrix.com/",
+           "name": "GTmetrix",
+           "disc": "Website Speed and Performance Optimization",
+           "img": "gtmetrix.webp"
       }
     },
     "文件转换": {
@@ -1123,6 +1129,18 @@
             "disc": "无线路由器使用分享与评测对比",
             "img": "acwifi.webp"
         },
+        "不死鸟": {
+            "url": "https://hao.su/",
+            "name": "不死鸟",
+            "disc": "分享型网站",
+            "img": "thebird.webp"
+        },
+        "Funletu": {
+            "url": "https://funletu.com/",
+            "name": "Funletu",
+            "disc": "发现好物，分享资源，推荐精品",
+            "img": "funletu.webp"
+        },
         "求资源": {
             "url": "http://www.qiuziyuan.net/",
             "name": "求资源",
@@ -1167,6 +1185,38 @@
             "disc": "全网电影电视剧在线观看, 无广告",
             "img": "longteng.webp"
         }
+    },
+    "发卡小站": {
+       "杂货铺": {
+          "url": "https://zahuo.info/",
+          "name": "杂货铺",
+          "disc": "美区APP, Microsoft OneDrive,EDU邮箱等",
+          "img": "zahuop.webp"
+        },
+        "Zephyr": {
+           "url": "https://www.yiyi.one/",
+           "name": "Zephyr",
+           "disc": "世纪互联版OneDrive, G Suite全局, EDU",
+           "img": "zephyr.webp"
+         },
+         "Dreamspark商店": {
+            "url": "https://shop.dreamspark.ac.cn/",
+            "name": "Dreamspark商店",
+            "disc": "世纪互联版OneDrive, G Suite全局, EDU",
+            "img": "dreamspark.webp"
+          },
+          "AWS150商城": {
+             "url": "https://aws150.com/",
+             "name": "AWS150商城",
+             "disc": "AWS优惠码, 二验谷歌云账号",
+             "img": "aws150.webp"
+          },
+          "iedumail": {
+              "url": "https://iedumail.com/",
+              "name": "iedumail",
+              "disc": "世纪互联, AWS, Github学生包",
+              "img": "iedumail.webp"
+          }
     },
     "关注博客":{
         "Roc Zhang's Blog": {
