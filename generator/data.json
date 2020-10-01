@@ -269,6 +269,12 @@
             "disc": "领先的IT专业图书社区",
             "img": "epubit.webp"
         },
+        "书栈网": {
+            "url": "https://www.bookstack.cn/",
+            "name": "书栈网",
+            "disc": "开源编程书籍免费阅读与下载",
+            "img": "bookstack.webp"
+        },
         "计算机书籍控": {
             "url": "http://bestcbooks.com/",
             "name": "计算机书籍控",
