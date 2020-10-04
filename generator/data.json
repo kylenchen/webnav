@@ -1010,6 +1010,12 @@
           "name": "趣导航",
           "disc": "有深度的网址导航",
           "img": "ifuncool.webp"
+       },
+       "搜奇导航": {
+          "url": "https://www.souqidaohang.com/",
+          "name": "搜奇导航",
+          "disc": "有内容的网址导航",
+          "img": "souqidaohang.webp"
        }
     },
     "网上购物": {
