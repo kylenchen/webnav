@@ -935,6 +935,18 @@
             "disc": "爱搜资源云盘助手",
             "img": "aisouziyuan.webp"
         },
+        "小马盘搜索": {
+            "url": "https://www.xiaomapan.com/",
+            "name": "小马盘搜索",
+            "disc": "网盘搜索",
+            "img": "xiaomapan.webp"
+        },
+        "飞飞盘": {
+            "url": "https://www.feifeipan.com/",
+            "name": "飞飞盘",
+            "disc": "网盘搜索",
+            "img": "feifeipan.webp"
+        },
         "小可搜搜": {
             "url": "https://www.xiaokesoso.com/",
             "name": "小可搜搜",
@@ -1202,6 +1214,12 @@
             "name": "奈菲影视",
             "disc": "电影电视剧在线观看",
             "img": "nfmovies.webp"
+        },
+        "哔嘀影视": {
+            "url": "https://bde4.com/",
+            "name": "哔嘀影视",
+            "disc": "在线观看BT磁力下载",
+            "img": "bde4.webp"
         },
         "龙腾影视": {
             "url": "https://www.118232.com/",
