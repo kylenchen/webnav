@@ -208,6 +208,12 @@
             "name": "V2EX",
             "disc": "各类奇妙好玩的话题和流行动向",
             "img": "v2ex.webp"
+        },
+        "程序员客栈": {
+            "url": "https://jishuin.proginn.com/",
+            "name": "程序员客栈",
+            "disc": "技术聚合推荐平台",
+            "img": "proginn.webp"
         }
     },
     "开发工具": {
@@ -930,9 +936,9 @@
             "img": "yunpanjingling.webp"
         },
         "爱搜资源": {
-            "url": "https://www.aisouziyuan.com/",
+            "url": "https://www.birdiesearch.com/",
             "name": "爱搜资源",
-            "disc": "爱搜资源云盘助手",
+            "disc": "aisouziyuan云盘",
             "img": "aisouziyuan.webp"
         },
         "小马盘搜索": {
@@ -1022,6 +1028,12 @@
           "name": "趣导航",
           "disc": "有深度的网址导航",
           "img": "ifuncool.webp"
+       },
+       "Locer.io": {
+          "url": "https://locer.io/",
+          "name": "Locer.io",
+          "disc": "专业的主机圈垂直内容导航",
+          "img": "unnamed .webp"
        },
        "搜奇导航": {
           "url": "https://www.souqidaohang.com/",
@@ -1188,6 +1200,30 @@
             "name": "求资源",
             "disc": "绿色软件分享平台",
             "img": "qiuziyuan.webp"
+        },
+        "LowEndTalk": {
+            "url": "https://www.lowendtalk.com/",
+            "name": "LowEndTalk",
+            "disc": "Community centered around low resource VPS",
+            "img": "lowendtalk.webp"
+        },
+        "小狗资源网": {
+            "url": "https://www.dog886.com/",
+            "name": "小狗资源网",
+            "disc": "掌握最全资源网",
+            "img": "dog886.webp"
+        },
+        "Github Proxy": {
+            "url": "https://ghproxy.com/",
+            "name": "Github Proxy",
+            "disc": "Github文件加速下载服务",
+            "img": "github.webp"
+        },
+        "AI吧Python": {
+            "url": "https://www.ai8py.com/",
+            "name": "AI吧Python",
+            "disc": "人工智能Python实现",
+            "img": "python.webp"
         }
     },
     "影视娱园": {
@@ -1264,6 +1300,12 @@
               "name": "iedumail",
               "disc": "世纪互联, AWS, Github学生包",
               "img": "iedumail.webp"
+          },
+          "Linli小店": {
+              "url": "https://shop.limuwong.com/",
+              "name": "Linli小店",
+              "disc": "AWS码, EDU邮箱",
+              "img": "zfaka.webp"
           }
     },
     "关注博客":{
@@ -1308,6 +1350,12 @@
             "name":"佰阅部落",
             "disc":"让优质的web应用脱颖而出",
             "img":"baiyue.webp"
+        },
+        "好鸭小博客":{
+            "url":"https://haoduck.com/",
+            "name":"好鸭小博客",
+            "disc":"分享WordPress、Linux教程",
+            "img":"haoduck.webp"
         },
         "奔跑中的奶酪":{
             "url": "https://www.runningcheese.com/",
