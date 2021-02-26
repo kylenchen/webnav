@@ -1257,6 +1257,24 @@
             "disc": "电影电视剧在线观看",
             "img": "nfmovies.webp"
         },
+        "剧迷": {
+            "url": "https://gimy.tv/",
+            "name": "剧迷",
+            "disc": "电影电视剧在线观看",
+            "img": "gimy.webp"
+        },
+        "奈飞星": {
+            "url": "https://nfstar.net/",
+            "name": "奈飞星",
+            "disc": "影视在线观看",
+            "img": "nfstar.webp"
+        },
+        "gimy": {
+            "url": "https://www.gimyvod.cc/",
+            "name": "gimy",
+            "disc": "剧迷gimy最快追剧",
+            "img": "gimyvod.webp"
+        },
         "哔嘀影视": {
             "url": "https://bde4.com/",
             "name": "哔嘀影视",
